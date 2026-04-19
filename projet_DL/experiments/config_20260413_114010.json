@@ -1,0 +1,1 @@
+{"loss_weights": {"type": 1.1, "couleur": 0.8, "rarete": 1.2, "encrable": 0.9}, "epochs": 50, "batch_size": 32, "LR": 1e-05, "frozen_layers": 120, "model": "MobileNetV2_finetuned"}

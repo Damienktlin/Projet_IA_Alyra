@@ -1,0 +1,320 @@
+New_File_name,Set,Numéro,File_name,Rareté,Encre,Encre #,Nom FR,Sous-titre FR,Catégorie,Classifications,Encrable,Coût,Force,Volonté,Lore
+01_FR_5.jpg,1.0,5,01•FR•005 {R} - ❶① Coût 08✖ - ✟.jpg,R,Ambre,❶,Hadès,Roi de l'Olympe,Personnage,Floodborn • Méchant • Roi • Dieu,0,8.0,6,7,1
+01_FR_13.jpg,1.0,13,01•FR•013 {C} - ❶① Coût 02✔ - ✟.jpg,C,Ambre,❶,Minnie,Princesse adorée,Personnage,Dreamborn • Princesse,1,2.0,2,3,1
+01_FR_16.jpg,1.0,16,01•FR•016 {U} - ❶① Coût 04✖ - ✟.jpg,U,Ambre,❶,Prince Philippe,Tueur de dragon,Personnage,Storyborn • Héros • Prince,0,4.0,3,3,2
+01_FR_19.jpg,1.0,19,01•FR•019 {C} - ❶① Coût 02✔ - ✟.jpg,C,Ambre,❶,Sébastien,Compositeur à la Cour,Personnage,Storyborn • Allié,1,2.0,2,2,1
+01_FR_24.jpg,1.0,24,01•FR•024 {C} - ❶① Coût 01✔ - ✟.jpg,C,Ambre,❶,Timon,Dénicheur de larves,Personnage,Storyborn • Allié,1,1.0,1,2,1
+01_FR_34.jpg,1.0,34,01•FR•034 {R} - ❶④ Coût 03✖ - ☥.jpg,R,Ambre,❶,Pendentif en coquillage d'Ursula,,Objet,Objet,0,3.0,,,
+01_FR_36.jpg,1.0,36,01•FR•036 {C} - ❷① Coût 01✔ - ✟.jpg,C,Améthyste,❷,Archimède,Hibou extrêmement instruit,Personnage,Dreamborn • Allié,1,1.0,2,2,1
+01_FR_38.jpg,1.0,38,01•FR•038 {C} - ❷① Coût 02✔ - ✟.jpg,C,Améthyste,❷,Dr. Facilier,Charlatan,Personnage,Storyborn • Méchant • Mage,1,2.0,0,4,1
+01_FR_48.jpg,1.0,48,01•FR•048 {R} - ❷① Coût 01✖ - ✟.jpg,R,Améthyste,❷,Maléfique,Attendant son heure,Personnage,Dreamborn • Méchant • Mage,0,1.0,1,1,2
+01_FR_51.jpg,1.0,51,01•FR•051 {SR} - ❷① Coût 04✔ - ✟.jpg,SR,Améthyste,❷,Mickey Mouse,Sorcier renégat,Personnage,Dreamborn • Mage,1,4.0,3,4,2
+01_FR_55.jpg,1.0,55,01•FR•055 {U} - ❷① Coût 06✔ - ☥.jpg,U,Améthyste,❷,Sven,Fournisseur officiel de glace,Personnage,Storyborn • Allié,1,6.0,5,7,1
+01_FR_56.jpg,1.0,56,01•FR•056 {SR} - ❷① Coût 05✔ - ☥.jpg,SR,Améthyste,❷,La Reine,Vaniteuse et malfaisante,Personnage,Storyborn • Méchant • Reine,1,5.0,4,5,1
+01_FR_61.jpg,1.0,61,01•FR•061 {R} - ❷① Coût 04✖ - ✟.jpg,R,Améthyste,❷,Zeus,Dieu de la Foudre,Personnage,Storyborn • Dieu,0,4.0,0,4,2
+01_FR_62.jpg,1.0,62,01•FR•062 {U} - ❷② Coût 01✔ - ✟.jpg,U,Améthyste,❷,Emberlificotage,,Action,Action,1,1.0,,,
+01_FR_75.jpg,1.0,75,01•FR•075 {SR} - ❸① Coût 06✖ - ✟.jpg,SR,Émeraude,❸,Génie,Fait le show,Personnage,Storyborn • Allié,0,6.0,3,4,2
+01_FR_76.jpg,1.0,76,01•FR•076 {R} - ❸① Coût 08✖ - ✟.jpg,R,Émeraude,❸,Génie,Déchaîne ses pouvoirs,Personnage,Floodborn • Héros,0,8.0,3,5,3
+01_FR_87.jpg,1.0,87,01•FR•087 {C} - ❸① Coût 02✔ - ☥.jpg,C,Émeraude,❸,Mégara,Tireuse de ficelles,Personnage,Dreamborn • Allié,1,2.0,2,1,1
+01_FR_98.jpg,1.0,98,01•FR•098 {C} - ❸③ Coût 02✔ - ☥.jpg,C,Émeraude,❸,Cruelle diablesse,,Action,Action • Chanson,1,2.0,,,
+01_FR_104.jpg,1.0,104,01•FR•104 {SR} - ❹① Coût 07✔ - ✟.jpg,SR,Rubis,❹,Aladdin,Hors-la-loi héroïque,Personnage,Floodborn • Héros,1,7.0,5,5,2
+01_FR_107.jpg,1.0,107,01•FR•107 {R} - ❹① Coût 07✖ - ✟.jpg,R,Rubis,❹,Capitaine Crochet,Pirate impitoyable,Personnage,Storyborn • Méchant • Pirate • Capitaine,0,7.0,5,5,2
+01_FR_117.jpg,1.0,117,01•FR•117 {U} - ❹① Coût 05✔ - ✟.jpg,U,Rubis,❹,Vaiana,Choisie par l'Océan,Personnage,Storyborn • Héros • Princesse,1,5.0,2,6,2
+01_FR_133.jpg,1.0,133,01•FR•133 {C} - ❹② Coût 02✔ - ✟.jpg,C,Rubis,❹,Enchevêtré,,Action,Action,1,2.0,,,
+01_FR_144.jpg,1.0,144,01•FR•144 {C} - ❺① Coût 05✔ - ✟.jpg,C,Saphir,❺,Donald,Inventeur fanfaron,Personnage,Dreamborn • Héros • Inventeur,1,5.0,4,3,2
+01_FR_149.jpg,1.0,149,01•FR•149 {R} - ❺① Coût 05✔ - ✟.jpg,R,Saphir,❺,Jasmine,Reine d'Agrabah,Personnage,Floodborn • Héros • Princesse • Reine,1,5.0,2,5,2
+01_FR_181.jpg,1.0,181,01•FR•181 {C} - ❻① Coût 03✔ - ☥.jpg,C,Acier,❻,Hercule,Vrai héros,Personnage,Dreamborn • Héros • Prince,1,3.0,3,3,1
+01_FR_182.jpg,1.0,182,01•FR•182 {C} - ❻① Coût 03✔ - ✟.jpg,C,Acier,❻,Kristoff,Maître glacier officiel,Personnage,Storyborn • Allié,1,3.0,3,3,2
+01_FR_183.jpg,1.0,183,01•FR•183 {U} - ❻① Coût 06✔ - ✟.jpg,U,Acier,❻,Kronk,Fidèle bras droit,Personnage,Storyborn • Allié,1,6.0,6,6,2
+01_FR_190.jpg,1.0,190,01•FR•190 {U} - ❻① Coût 05✖ - ✟.jpg,U,Acier,❻,Simba,Héritier légitime,Personnage,Storyborn • Héros • Prince,0,5.0,3,5,2
+01_FR_193.jpg,1.0,193,01•FR•193 {SR} - ❻① Coût 06✔ - ☥.jpg,SR,Acier,❻,La fée Clochette,Fée géante,Personnage,Floodborn • Allié • Fée,1,6.0,4,5,2
+01_FR_197.jpg,1.0,197,01•FR•197 {C} - ❻② Coût 01✖ - ☥.jpg,C,Acier,❻,Allumez les mêches !,,Action,Action,0,1.0,,,
+02_FR_2.jpg,2.0,2,02•FR•002 {R} - ❶① Coût 06✔ - ✟.jpg,R,Ambre,❶,Jean-Christophe,Aventurier,Personnage,Dreamborn • Héros,1,6.0,2,6,2
+02_FR_10.jpg,2.0,10,02•FR•010 {C} - ❶① Coût 04✔ - ✟.jpg,C,Ambre,❶,Grincheux,Sale Caractère,Personnage,Storyborn • Allié • Sept nains,1,4.0,3,4,1
+02_FR_14.jpg,2.0,14,02•FR•014 {L} - ❶① Coût 05✔ - ✟.jpg,L,Ambre,❶,Mufasa,Roi trahi,Personnage,Storyborn • Mentor • Roi,1,5.0,3,3,2
+02_FR_17.jpg,2.0,17,02•FR•017 {U} - ❶① Coût 02✔ - ✟.jpg,U,Ambre,❶,Nana,Chienne de la famille Darling,Personnage,Storyborn • Allié,1,2.0,1,3,1
+02_FR_21.jpg,2.0,21,02•FR•021 {C} - ❶① Coût 02✔ - ✟.jpg,C,Ambre,❶,Dormeur,Tombe de fatigue,Personnage,Storyborn • Allié • Sept nains,1,2.0,2,3,2
+02_FR_23.jpg,2.0,23,02•FR•023 {C} - ❶① Coût 02✔ - ✟.jpg,C,Ambre,❶,Blanche-Neige,Perdue dans la forêt,Personnage,Storyborn • Héros • Princesse,1,2.0,2,3,1
+02_FR_24.jpg,2.0,24,02•FR•024 {U} - ❶① Coût 02✖ - ✟.jpg,U,Ambre,❶,Blanche-Neige,Invitée inattendue,Personnage,Storyborn • Héros • Princesse,0,2.0,1,2,1
+02_FR_26.jpg,2.0,26,02•FR•026 {SR} - ❶① Coût 05✔ - ✟.jpg,SR,Ambre,❶,La Reine,Autorité naturelle,Personnage,Floodborn • Méchant • Reine,1,5.0,4,3,2
+02_FR_27.jpg,2.0,27,02•FR•027 {C} - ❶① Coût 01✔ - ☥.jpg,C,Ambre,❶,La Reine,Monarque absolue,Personnage,Storyborn • Méchant • Reine,1,1.0,2,2,1
+02_FR_42.jpg,2.0,42,02•FR•042 {C} - ❷① Coût 03✔ - ✟.jpg,C,Améthyste,❷,La Bonne Fée,Au cœur pur,Personnage,Storyborn • Allié • Fée,1,3.0,3,4,1
+02_FR_44.jpg,2.0,44,02•FR•044 {C} - ❷① Coût 02✔ - ✟.jpg,C,Améthyste,❷,Jiminy Cricket,Conscience de Pinocchio,Personnage,Storyborn • Mentor,1,2.0,1,2,1
+02_FR_47.jpg,2.0,47,02•FR•047 {L} - ❷① Coût 07✔ - ✟.jpg,L,Améthyste,❷,Madame Mime,En dragon,Personnage,Storyborn • Méchant • Mage • Dragon,1,7.0,5,7,4
+02_FR_51.jpg,2.0,51,02•FR•051 {U} - ❷① Coût 04✔ - ✟.jpg,U,Améthyste,❷,Merlin,En chèvre,Personnage,Storyborn • Mentor • Mage,1,4.0,4,3,1
+02_FR_68.jpg,2.0,68,02•FR•068 {R} - ❷④ Coût 03✖ - ✟.jpg,R,Améthyste,❷,Grimoire du sorcier,,Objet,Objet,0,3.0,,,
+02_FR_72.jpg,2.0,72,02•FR•072 {L} - ❸① Coût 05✖ - ✟.jpg,L,Émeraude,❸,Belle,Archère dissimulée,Personnage,Floodborn • Héros • Princesse,0,5.0,3,3,3
+02_FR_74.jpg,2.0,74,02•FR•074 {U} - ❸① Coût 02✔ - ✟.jpg,U,Émeraude,❸,Chat du Cheshire,Toujours ce sourire…,Personnage,Storyborn,1,2.0,3,2,1
+02_FR_79.jpg,2.0,79,02•FR•079 {SR} - ❸① Coût 07✔ - ✟.jpg,SR,Émeraude,❸,Dr. Facilier,Lit dans les cartes,Personnage,Storyborn • Méchant • Mage,1,7.0,4,4,3
+02_FR_87.jpg,2.0,87,02•FR•087 {C} - ❸① Coût 03✖ - ✟.jpg,C,Émeraude,❸,Panique,Diablotin des enfers,Personnage,Storyborn • Allié,0,3.0,2,3,2
+02_FR_92.jpg,2.0,92,02•FR•092 {C} - ❸① Coût 05✔ - ✟.jpg,C,Émeraude,❸,Ray,Luciole décontractée,Personnage,Storyborn • Allié,1,5.0,3,3,3
+02_FR_98.jpg,2.0,98,02•FR•098 {C} - ❸② Coût 03✔ - ✟.jpg,C,Émeraude,❸,Hypnotiser,,Action,Action,1,3.0,,,
+02_FR_100.jpg,2.0,100,02•FR•100 {R} - ❸② Coût 04✔ - ✟.jpg,R,Émeraude,❸,Tactique de meute,,Action,Action,1,4.0,,,
+02_FR_108.jpg,2.0,108,02•FR•108 {C} - ❹① Coût 03✔ - ✟.jpg,C,Rubis,❹,Fidget,Homme de main de Ratigan,Personnage,Dreamborn • Allié,1,3.0,3,2,1
+02_FR_117.jpg,2.0,117,02•FR•117 {C} - ❹① Coût 04✖ - ✟.jpg,C,Rubis,❹,Mulan,Tout juste sortie de l'entraînement,Personnage,Storyborn • Héros • Princesse,0,4.0,4,3,1
+02_FR_121.jpg,2.0,121,02•FR•121 {R} - ❹① Coût 05✖ - ✟.jpg,R,Rubis,❹,Ratigan,Le plus beau des rats,Personnage,Storyborn • Méchant,0,5.0,3,3,2
+02_FR_136.jpg,2.0,136,02•FR•136 {U} - ❹④ Coût 01✖ - ✟.jpg,U,Rubis,❹,L'épée dans l'enclume,,Objet,Objet,0,1.0,,,
+02_FR_140.jpg,2.0,140,02•FR•140 {C} - ❺① Coût 04✔ - ✟.jpg,C,Saphir,❺,Basil,Enquêteur perspicace,Personnage,Storyborn • Héros • Détective,1,4.0,3,4,2
+02_FR_150.jpg,2.0,150,02•FR•150 {C} - ❺① Coût 04✖ - ✟.jpg,C,Saphir,❺,James,Parent modèle,Personnage,Storyborn • Mentor,0,4.0,3,3,2
+02_FR_168.jpg,2.0,168,02•FR•168 {R} - ❺④ Coût 03✖ - ✟.jpg,R,Saphir,❺,Atelier de Maurice,,Objet,Objet,0,3.0,,,
+02_FR_169.jpg,2.0,169,02•FR•169 {C} - ❺④ Coût 01✔ - ✟.jpg,C,Saphir,❺,Glace à l'eau,,Objet,Objet,1,1.0,,,
+02_FR_174.jpg,2.0,174,02•FR•174 {C} - ❻① Coût 03✔ - ☥.jpg,C,Acier,❻,Benja,Gardien de la Pierre de Dragon,Personnage,Storyborn • Mentor • Roi,1,3.0,2,3,2
+02_FR_175.jpg,2.0,175,02•FR•175 {R} - ❻① Coût 04✖ - ✟.jpg,R,Acier,❻,Chef Bogo,Officier respecté,Personnage,Dreamborn,0,4.0,2,4,2
+02_FR_180.jpg,2.0,180,02•FR•180 {R} - ❻① Coût 09✔ - ✟.jpg,R,Acier,❻,Dingo,Chevalier pour un jour,Personnage,Dreamborn • Héros • Chevalier,1,9.0,10,10,4
+02_FR_184.jpg,2.0,184,02•FR•184 {C} - ❻① Coût 02✔ - ☥.jpg,C,Acier,❻,Jafar,Grand Vizir,Personnage,Storyborn • Méchant • Mage,1,2.0,3,2,1
+02_FR_190.jpg,2.0,190,02•FR•190 {U} - ❻① Coût 06✔ - ✟.jpg,U,Acier,❻,Pacha,Chef de village,Personnage,Storyborn • Héros,1,6.0,4,8,2
+02_FR_196.jpg,2.0,196,02•FR•196 {SR} - ❻① Coût 04✖ - ✟.jpg,SR,Acier,❻,Tiana,Princesse en fête,Personnage,Dreamborn • Héros • Princesse,0,4.0,1,4,2
+03_FR_2.jpg,3.0,2,03•FR•002 {R} - ❶① Coût 04✔ - ✟.jpg,R,Ambre,❶,Bernard,Tout nouvel agent,Personnage,Storyborn • Héros,1,4.0,1,5,2
+03_FR_004c.jpg,3.0,004c,03•FR•004c {C} - ❶① Coût 02✔ - ✟.jpg,C,Ambre,❶,Chiot dalmatien,Frétille de joie,Personnage,Storyborn • Chiot,1,2.0,2,3,1
+03_FR_14.jpg,3.0,14,03•FR•014 {C} - ❶① Coût 04✔ - ✟.jpg,C,Ambre,❶,Patch,Chiot intimidant,Personnage,Storyborn • Chiot,1,4.0,3,4,1
+03_FR_16.jpg,3.0,16,03•FR•016 {SR} - ❶① Coût 02✔ - ✟.jpg,SR,Ambre,❶,Porcinet,Capitaine pirate de Winnie,Personnage,Dreamborn • Héros • Pirate • Capitaine,1,2.0,2,2,1
+03_FR_20.jpg,3.0,20,03•FR•020 {U} - ❶① Coût 03✔ - ☥.jpg,U,Ambre,❶,La Reine de cœur,Impératrice du Pays des Merveilles,Personnage,Dreamborn • Méchant • Reine,1,3.0,3,3,1
+03_FR_24.jpg,3.0,24,03•FR•024 {U} - ❶② Coût 05✖ - ✟.jpg,U,Ambre,❶,99 Chiots,,Action,Action,0,5.0,,,
+03_FR_28.jpg,3.0,28,03•FR•028 {R} - ❶③ Coût 02✔ - ✟.jpg,R,Ambre,❶,Il en faut peu pour être heureux,,Action,Action • Chanson,1,2.0,,,
+03_FR_38.jpg,3.0,38,03•FR•038 {SR} - ❷① Coût 04✖ - ☥.jpg,SR,Améthyste,❷,Génie,Ami encourageant,Personnage,Storyborn • Allié,0,4.0,3,5,1
+03_FR_46.jpg,3.0,46,03•FR•046 {C} - ❷① Coût 03✔ - ✟.jpg,C,Améthyste,❷,Balais magiques,Le grand nettoyeur,Personnage,Dreamborn • Balai,1,3.0,1,5,1
+03_FR_47.jpg,3.0,47,03•FR•047 {C} - ❷① Coût 02✔ - ✟.jpg,C,Améthyste,❷,Tapis volant,Carpette magique,Personnage,Storyborn • Allié,1,2.0,2,1,1
+03_FR_52.jpg,3.0,52,03•FR•052 {U} - ❷① Coût 06✖ - ☥.jpg,U,Améthyste,❷,Mama Odie,Voix de la sagesse,Personnage,Dreamborn • Allié • Mage,0,6.0,3,6,2
+03_FR_53.jpg,3.0,53,03•FR•053 {C} - ❷① Coût 02✔ - ✟.jpg,C,Améthyste,❷,Pua,Compagnon bedonnant,Personnage,Storyborn • Allié,1,2.0,2,2,2
+03_FR_54.jpg,3.0,54,03•FR•054 {R} - ❷① Coût 01✔ - ☥.jpg,R,Améthyste,❷,Rafiki,Combattant mystique,Personnage,Dreamborn • Mentor • Mage,1,1.0,0,2,1
+03_FR_59.jpg,3.0,59,03•FR•059 {R} - ❷① Coût 03✖ - ☥.jpg,R,Améthyste,❷,Ursula,Sorcière des mers,Personnage,Dreamborn • Méchant • Mage,0,3.0,3,3,1
+03_FR_62.jpg,3.0,62,03•FR•062 {U} - ❷② Coût 03✖ - ☥.jpg,U,Améthyste,❷,Effort désespéré,,Action,Action,0,3.0,,,
+03_FR_86.jpg,3.0,86,03•FR•086 {C} - ❸① Coût 02✔ - ✟.jpg,C,Émeraude,❸,Triste Sire,Aspic envenimant,Personnage,Dreamborn • Allié,1,2.0,3,1,1
+03_FR_88.jpg,3.0,88,03•FR•088 {U} - ❸① Coût 07✔ - ✟.jpg,U,Émeraude,❸,Monsieur Starkey,Pirate sournois,Personnage,Storyborn • Allié • Pirate,1,7.0,6,6,3
+03_FR_99.jpg,3.0,99,03•FR•099 {R} - ❸④ Coût 04✖ - ✟.jpg,R,Émeraude,❸,Fiole de lumière d'étoile,,Objet,Objet,0,4.0,,,
+03_FR_101.jpg,3.0,101,03•FR•101 {R} - ❸⑤ Coût 04✔ - ✟.jpg,R,Émeraude,❸,Croc du Dragon,Cité des rivières,Lieu,Lieu,1,4.0,,6,2
+03_FR_107.jpg,3.0,107,03•FR•107 {U} - ❹① Coût 02✔ - ✟.jpg,U,Rubis,❹,Heihei,Explorateur accidentel,Personnage,Storyborn • Allié,1,2.0,3,2,1
+03_FR_115.jpg,3.0,115,03•FR•115 {C} - ❹① Coût 02✔ - ✟.jpg,C,Rubis,❹,Milo Thatch,Savant intrépide,Personnage,Storyborn • Héros,1,2.0,2,2,1
+03_FR_119.jpg,3.0,119,03•FR•119 {C} - ❹① Coût 03✔ - ✟.jpg,C,Rubis,❹,Peter Pan,Héros du Pays Imaginaire,Personnage,Storyborn • Héros,1,3.0,1,3,2
+03_FR_130.jpg,3.0,130,03•FR•130 {R} - ❹② Coût 04✖ - ✟.jpg,R,Rubis,❹,Debout ! Tout de suite !,,Action,Action,0,4.0,,,
+03_FR_147.jpg,3.0,147,03•FR•147 {U} - ❺① Coût 06✔ - ✟.jpg,U,Saphir,❺,Kit,Copilote,Personnage,Floodborn • Allié,1,6.0,2,5,3
+03_FR_151.jpg,3.0,151,03•FR•151 {R} - ❺① Coût 03✖ - ☥.jpg,R,Saphir,❺,Mama Odie,Experte mystique,Personnage,Storyborn • Mentor,0,3.0,1,3,1
+03_FR_160.jpg,3.0,160,03•FR•160 {R} - ❺③ Coût 05✔ - ✟.jpg,R,Saphir,❺,Je suis ton meilleur ami,,Action,Action • Chanson,1,5.0,,,
+03_FR_164.jpg,3.0,164,03•FR•164 {R} - ❺④ Coût 03✔ - ☥.jpg,R,Saphir,❺,Le cœur de Te Fiti,,Objet,Objet,1,3.0,,,
+03_FR_172.jpg,3.0,172,03•FR•172 {C} - ❻① Coût 05✔ - ☥.jpg,C,Acier,❻,Bourriquet,Âne trop rembourré,Personnage,Storyborn • Allié,1,5.0,4,5,1
+03_FR_183.jpg,3.0,183,03•FR•183 {C} - ❻① Coût 01✔ - ✟.jpg,C,Acier,❻,Minnie,Spéléologue funky,Personnage,Dreamborn • Héros,1,1.0,0,3,1
+03_FR_188.jpg,3.0,188,03•FR•188 {C} - ❻① Coût 02✔ - ✟.jpg,C,Acier,❻,Razoul,Garde de palais,Personnage,Storyborn • Allié • Capitaine,1,2.0,1,3,1
+03_FR_191.jpg,3.0,191,03•FR•191 {SR} - ❻① Coût 04✖ - ✟.jpg,SR,Acier,❻,Shérif de Nottingham,Officiellement corrompu,Personnage,Dreamborn • Méchant,0,4.0,2,4,1
+03_FR_199.jpg,3.0,199,03•FR•199 {U} - ❻④ Coût 03✖ - ✟.jpg,U,Acier,❻,Rapière du Capitaine Crochet,,Objet,Objet,0,3.0,,,
+04_FR_4.jpg,4.0,4,04•FR•004 {L} - ❶① Coût 05✔ - ✟.jpg,L,Ambre,❶,Cendrillon,Tisseuse de mélodies,Personnage,Dreamborn • Héros • Princesse,1,5.0,1,5,2
+04_FR_6.jpg,4.0,6,04•FR•006 {U} - ❶① Coût 01✔ - ✟.jpg,U,Ambre,❶,Daisy,Charmante Damoiselle,Personnage,Dreamborn • Allié,1,1.0,1,3,1
+04_FR_10.jpg,4.0,10,04•FR•010 {SR} - ❶① Coût 03✖ - ✟.jpg,SR,Ambre,❶,Gaston,Odieux comploteur,Personnage,Storyborn • Méchant,0,3.0,2,4,1
+04_FR_12.jpg,4.0,12,04•FR•012 {R} - ❶① Coût 04✖ - ✟.jpg,R,Ambre,❶,Dingo,Mousquetaire épéiste,Personnage,Dreamborn • Héros • Mousquetaire,0,4.0,3,4,2
+04_FR_20.jpg,4.0,20,04•FR•020 {C} - ❶① Coût 05✔ - ☥.jpg,C,Ambre,❶,Pluto,Chien de sauvegarde,Personnage,Storyborn • Allié,1,5.0,4,5,2
+04_FR_42.jpg,4.0,42,04•FR•042 {R} - ❷① Coût 03✖ - ✟.jpg,R,Améthyste,❷,Elsa,Chasseuse d'orage,Personnage,Storyborn • Héros • Reine • Mage,0,3.0,1,4,1
+04_FR_59.jpg,4.0,59,04•FR•059 {L} - ❷① Coût 02✔ - ✟.jpg,L,Améthyste,❷,Yen Sid,Puissant sorcier,Personnage,Storyborn • Héros • Mage,1,2.0,1,3,1
+04_FR_73.jpg,4.0,73,04•FR•073 {C} - ❸① Coût 02✔ - ✟.jpg,C,Émeraude,❸,Gus,Champion du fromage,Personnage,Storyborn • Allié,1,2.0,2,3,1
+04_FR_76.jpg,4.0,76,04•FR•076 {R} - ❸① Coût 03✔ - ✟.jpg,R,Émeraude,❸,Héra,Reine des Dieux,Personnage,Storyborn • Reine • Dieu,1,3.0,1,3,1
+04_FR_79.jpg,4.0,79,04•FR•079 {C} - ❸① Coût 03✖ - ✟.jpg,C,Émeraude,❸,Mégara,Cynique captivante,Personnage,Dreamborn • Allié,0,3.0,3,6,2
+04_FR_88.jpg,4.0,88,04•FR•088 {R} - ❸① Coût 04✖ - ☥.jpg,R,Émeraude,❸,Prince Philippe,Gardien de la forêt,Personnage,Dreamborn • Héros • Prince,0,4.0,3,4,2
+04_FR_91.jpg,4.0,91,04•FR•091 {C} - ❸① Coût 05✔ - ✟.jpg,C,Émeraude,❸,Tor,Fleuriste,Personnage,Dreamborn • Allié,1,5.0,4,7,1
+04_FR_93.jpg,4.0,93,04•FR•093 {C} - ❸② Coût 02✔ - ✟.jpg,C,Émeraude,❸,Esquive !,,Action,Action,1,2.0,,,
+04_FR_94.jpg,4.0,94,04•FR•094 {C} - ❸② Coût 02✖ - ☥.jpg,C,Émeraude,❸,Concocter la potion,,Action,Action,0,2.0,,,
+04_FR_100.jpg,4.0,100,04•FR•100 {U} - ❸④ Coût 03✔ - ✟.jpg,U,Émeraude,❸,Plaque de vision,,Objet,Objet,1,3.0,,,
+04_FR_101.jpg,4.0,101,04•FR•101 {C} - ❸⑤ Coût 01✔ - ☥.jpg,C,Émeraude,❸,La crique cachée,Havre de paix,Lieu,Lieu,1,1.0,,6,0
+04_FR_102.jpg,4.0,102,04•FR•102 {R} - ❸⑤ Coût 04✔ - ✟.jpg,R,Émeraude,❸,Jardin d'Ursula,Rempli d'âmes en perdition,Lieu,Lieu,1,4.0,,7,1
+04_FR_104.jpg,4.0,104,04•FR•104 {C} - ❹① Coût 04✔ - ✟.jpg,C,Rubis,❹,Benja,Unificateur audacieux,Personnage,Storyborn • Mentor • Roi,1,4.0,5,3,1
+04_FR_107.jpg,4.0,107,04•FR•107 {R} - ❹① Coût 04✔ - ✟.jpg,R,Rubis,❹,Dingo,Super Dingo,Personnage,Storyborn • Héros,1,4.0,2,4,1
+04_FR_118.jpg,4.0,118,04•FR•118 {U} - ❹① Coût 06✔ - ✟.jpg,U,Rubis,❹,Nessus,Gardien de la rivière,Personnage,Storyborn • Méchant,1,6.0,7,5,2
+04_FR_124.jpg,4.0,124,04•FR•124 {R} - ❹① Coût 03✔ - ☥.jpg,R,Rubis,❹,Sisu,Combattante enhardie,Personnage,Storyborn • Héros • Dieu • Dragon,1,3.0,1,4,2
+04_FR_130.jpg,4.0,130,04•FR•130 {C} - ❹② Coût 03✔ - ✟.jpg,C,Rubis,❹,Bagarre,,Action,Action,1,3.0,,,
+04_FR_131.jpg,4.0,131,04•FR•131 {R} - ❹④ Coût 01✔ - ✟.jpg,R,Rubis,❹,Décret impérial,,Objet,Objet,1,1.0,,,
+04_FR_132.jpg,4.0,132,04•FR•132 {U} - ❹④ Coût 02✔ - ☥.jpg,U,Rubis,❹,Médaillons lestés,,Objet,Objet,1,2.0,,,
+04_FR_136.jpg,4.0,136,04•FR•136 {C} - ❹⑤ Coût 01✔ - ✟.jpg,C,Rubis,❹,Terrain d'entraînement,Mât insurmontable,Lieu,Lieu,1,1.0,,5,0
+04_FR_137.jpg,4.0,137,04•FR•137 {C} - ❺① Coût 02✔ - ☥.jpg,C,Saphir,❺,Anna,Bravant la tempête,Personnage,Dreamborn • Héros • Reine,1,2.0,1,4,1
+04_FR_151.jpg,4.0,151,04•FR•151 {C} - ❺① Coût 03✔ - ✟.jpg,C,Saphir,❺,Pascal,Animal de compagnie curieux,Personnage,Storyborn • Allié,1,3.0,3,3,1
+04_FR_157.jpg,4.0,157,04•FR•157 {C} - ❺① Coût 04✔ - ✟.jpg,C,Saphir,❺,Chef transformé,Poêle du château,Personnage,Storyborn • Allié,1,4.0,3,3,2
+04_FR_158.jpg,4.0,158,04•FR•158 {L} - ❺① Coût 09✔ - ✟.jpg,L,Saphir,❺,Triton,Champion d'Atlantica,Personnage,Floodborn • Roi,1,9.0,7,9,3
+04_FR_165.jpg,4.0,165,04•FR•165 {R} - ❺③ Coût 06✔ - ✟.jpg,R,Saphir,❺,Tous ces secrets,,Action,Action • Chanson,1,6.0,,,
+04_FR_178.jpg,4.0,178,04•FR•178 {C} - ❻① Coût 05✔ - ✟.jpg,C,Acier,❻,Chien-Po,Soldat impérial,Personnage,Storyborn • Allié,1,5.0,4,7,1
+04_FR_179.jpg,4.0,179,04•FR•179 {L} - ❻① Coût 04✔ - ✟.jpg,L,Acier,❻,Donald,Boucanier,Personnage,Dreamborn • Héros • Pirate • Capitaine,1,4.0,3,4,1
+04_FR_186.jpg,4.0,186,04•FR•186 {SR} - ❻① Coût 06✔ - ✟.jpg,SR,Acier,❻,Balais magiques,Commandant de brigade,Personnage,Dreamborn • Balai,1,6.0,2,6,2
+04_FR_187.jpg,4.0,187,04•FR•187 {R} - ❻① Coût 05✔ - ✟.jpg,R,Acier,❻,Mickey Mouse,Sorcier espiègle,Personnage,Floodborn • Héros • Mage,1,5.0,3,4,2
+04_FR_190.jpg,4.0,190,04•FR•190 {R} - ❻① Coût 04✔ - ☥.jpg,R,Acier,❻,Philoctète,Instructeur direct,Personnage,Storyborn • Allié,1,4.0,2,3,2
+04_FR_196.jpg,4.0,196,04•FR•196 {U} - ❻③ Coût 04✔ - ☥.jpg,U,Acier,❻,Ils cassent en deux comme je veux,,Action,Action • Chanson,1,4.0,,,
+04_FR_202.jpg,4.0,202,04•FR•202 {R} - ❻④ Coût 03✖ - ✟.jpg,R,Acier,❻,Canon du RLS Héritage,,Objet,Objet,0,3.0,,,
+05_FR_5.jpg,5.0,5,05•FR•005 {C} - ❶① Coût 02✔ - ⟳.jpg,C,Ambre,❶,Kinaï,Grand frère,Personnage,Storyborn • Héros,1,2.0,1,4,1
+05_FR_9.jpg,5.0,9,05•FR•009 {C} - ❶① Coût 02✔ - ⟳.jpg,C,Ambre,❶,Vanellope von Schweetz,Mécanicienne de bonbons,Personnage,Dreamborn • Héros • Princesse • Pilote,1,2.0,2,2,1
+05_FR_10.jpg,5.0,10,05•FR•010 {C} - ❶① Coût 03✔ - ⟳.jpg,C,Ambre,❶,Félix Fixe Junior,Constructeur fiable,Personnage,Storyborn • Héros,1,3.0,2,4,1
+05_FR_33.jpg,5.0,33,05•FR•033 {U} - ❶⑤ Coût 02✔ - ⟳.jpg,U,Ambre,❶,Tour de Raiponce,Prison cachée,Lieu,Lieu,1,2.0,,8,0
+05_FR_58.jpg,5.0,58,05•FR•058 {L} - ❷① Coût 06✔ - ⟳.jpg,L,Améthyste,❷,Camilo Madrigal,Changeforme de la famille,Personnage,Storyborn • Allié • Madrigal,1,6.0,3,7,1
+05_FR_65.jpg,5.0,65,05•FR•065 {R} - ❷④ Coût 06✖ - ⟳.jpg,R,Améthyste,❷,Moitié de la couronne d'Hexasort,,Objet,Objet,0,6.0,,,
+05_FR_69.jpg,5.0,69,05•FR•069 {R} - ❸① Coût 09✖ - ⟳.jpg,R,Émeraude,❸,Robin des bois,Candidat opportun,Personnage,Storyborn • Héros,0,9.0,6,6,4
+05_FR_82.jpg,5.0,82,05•FR•082 {SR} - ❸① Coût 03✖ - ⟳.jpg,SR,Émeraude,❸,Scroop,Odieux mutin,Personnage,Storyborn • Méchant • Alien • Pirate,0,3.0,2,1,2
+05_FR_87.jpg,5.0,87,05•FR•087 {C} - ❸① Coût 02✔ - ⟳.jpg,C,Émeraude,❸,Banzaï,Hyène railleuse,Personnage,Storyborn • Allié • Hyène,1,2.0,2,2,2
+05_FR_93.jpg,5.0,93,05•FR•093 {R} - ❸① Coût 04✔ - ⟳.jpg,R,Émeraude,❸,Scar,Lion revanchard,Personnage,Storyborn • Méchant,1,4.0,4,2,1
+05_FR_100.jpg,5.0,100,05•FR•100 {U} - ❸④ Coût 03✖ - ⟳.jpg,U,Émeraude,❸,Chromicône d'émeraude,,Objet,Objet,0,3.0,,,
+05_FR_101.jpg,5.0,101,05•FR•101 {R} - ❸⑤ Coût 02✔ - ⟳.jpg,R,Émeraude,❸,Forêt de Sherwood,Cachette des hors-la-loi,Lieu,Lieu,1,2.0,,7,0
+05_FR_110.jpg,5.0,110,05•FR•110 {C} - ❹① Coût 03✖ - ⟳.jpg,C,Rubis,❹,Ninou Gatine,Compétitrice glacée,Personnage,Storyborn • Allié • Pilote,0,3.0,2,4,1
+05_FR_120.jpg,5.0,120,05•FR•120 {C} - ❹① Coût 03✔ - ⟳.jpg,C,Rubis,❹,Pat,Engloutisseur de pâtisseries,Personnage,Storyborn • Méchant,1,3.0,4,3,1
+05_FR_123.jpg,5.0,123,05•FR•123 {R} - ❹① Coût 07✖ - ⟳.jpg,R,Rubis,❹,Ratigan,Trouble-fête,Personnage,Floodborn • Méchant,0,7.0,5,5,3
+05_FR_133.jpg,5.0,133,05•FR•133 {R} - ❹④ Coût 03✖ - ⟳.jpg,R,Rubis,❹,L'épée libérée,,Objet,Objet,0,3.0,,,
+05_FR_140.jpg,5.0,140,05•FR•140 {R} - ❺① Coût 04✖ - ⟳.jpg,R,Saphir,❺,Balthazar Picsou,Amateur d'antiquités,Personnage,Storyborn • Héros,0,4.0,5,5,2
+05_FR_142.jpg,5.0,142,05•FR•142 {C} - ❺① Coût 04✔ - ⟳.jpg,C,Saphir,❺,Merlin,De retour de Saint-Trop',Personnage,Storyborn • Mentor • Mage,1,4.0,1,4,2
+05_FR_143.jpg,5.0,143,05•FR•143 {U} - ❺① Coût 03✔ - ⟳.jpg,U,Saphir,❺,Pacha,Guide de l'Empereur,Personnage,Storyborn • Héros,1,3.0,0,4,2
+05_FR_149.jpg,5.0,149,05•FR•149 {SR} - ❺① Coût 06✔ - ⟳.jpg,SR,Saphir,❺,Kuzco,Empereur égoïste,Personnage,Storyborn • Roi,1,6.0,3,5,2
+05_FR_160.jpg,5.0,160,05•FR•160 {C} - ❺② Coût 02✔ - ⟳.jpg,C,Saphir,❺,Vision de l'avenir,,Action,Action,1,2.0,,,
+05_FR_176.jpg,5.0,176,05•FR•176 {C} - ❻① Coût 01✔ - ⟳.jpg,C,Acier,❻,Mickey Mouse,Défenseur de la bataille de nourriture,Personnage,Storyborn • Héros,1,1.0,1,2,1
+05_FR_192.jpg,5.0,192,05•FR•192 {U} - ❻① Coût 06✔ - ⟳.jpg,U,Acier,❻,Simba,Fils de Mufasa,Personnage,Floodborn • Héros • Roi,1,6.0,3,5,1
+06_FR_2.jpg,6.0,2,06•FR•002 {SR} - ❶① Coût 02✔ - ⟳.jpg,SR,Ambre,❶,Lilo,Reine de l'évasion,Personnage,Storyborn • Héros,1,2.0,1,2,2
+06_FR_29.jpg,6.0,29,06•FR•029 {U} - ❶② Coût 02✔ - ⟳.jpg,U,Ambre,❶,Rangers du risque à la rescousse !,,Action,Action,1,2.0,,,
+06_FR_46.jpg,6.0,46,06•FR•046 {U} - ❷① Coût 04✔ - ⟳.jpg,U,Améthyste,❷,Le morse,Gourmand avide,Personnage,Storyborn,1,4.0,3,6,1
+06_FR_52.jpg,6.0,52,06•FR•052 {R} - ❷① Coût 09✖ - ⟳.jpg,R,Améthyste,❷,Rafiki,Guide éthéré,Personnage,Floodborn • Mentor • Mage,0,9.0,6,6,4
+06_FR_57.jpg,6.0,57,06•FR•057 {R} - ❷① Coût 05✖ - ⟳.jpg,R,Améthyste,❷,Mama Odie,Sage solitaire,Personnage,Storyborn • Allié • Mage,0,5.0,4,5,1
+06_FR_61.jpg,6.0,61,06•FR•061 {L} - ❷① Coût 07✔ - ⟳.jpg,L,Améthyste,❷,Génie,Farceur merveilleux,Personnage,Floodborn • Allié,1,7.0,4,7,2
+06_FR_64.jpg,6.0,64,06•FR•064 {R} - ❷② Coût 05✖ - ⟳.jpg,R,Améthyste,❷,En quête de la moitié de couronne,,Action,Action,0,5.0,,,
+06_FR_65.jpg,6.0,65,06•FR•065 {R} - ❷④ Coût 02✔ - ⟳.jpg,R,Améthyste,❷,Sceptre de Maléfique,,Objet,Objet,1,2.0,,,
+06_FR_72.jpg,6.0,72,06•FR•072 {R} - ❸① Coût 04✖ - ⟳.jpg,R,Émeraude,❸,Stitch,Boucanier alien,Personnage,Floodborn • Héros • Alien • Pirate,0,4.0,3,4,2
+06_FR_73.jpg,6.0,73,06•FR•073 {R} - ❸① Coût 02✔ - ⟳.jpg,R,Émeraude,❸,Go Go Tomago,Pile survoltée,Personnage,Storyborn • Inventeur,1,2.0,2,2,1
+06_FR_74.jpg,6.0,74,06•FR•074 {U} - ❸① Coût 02✔ - ⟳.jpg,U,Émeraude,❸,Honey Lemon,Génie de la chimie,Personnage,Storyborn • Héros • Inventeur,1,2.0,1,1,2
+06_FR_87.jpg,6.0,87,06•FR•087 {C} - ❸① Coût 03✔ - ⟳.jpg,C,Émeraude,❸,Alistair Krei,Entrepreneur ambitieux,Personnage,Storyborn • Inventeur,1,3.0,2,4,1
+06_FR_89.jpg,6.0,89,06•FR•089 {R} - ❸① Coût 05✔ - ⟳.jpg,R,Émeraude,❸,Dingo,Charpentier naval expert,Personnage,Dreamborn • Héros • Inventeur,1,5.0,1,4,3
+06_FR_91.jpg,6.0,91,06•FR•091 {U} - ❸① Coût 06✔ - ⟳.jpg,U,Émeraude,❸,Basil,Détective déguisé,Personnage,Floodborn • Héros • Détective,1,6.0,4,5,2
+06_FR_101.jpg,6.0,101,06•FR•101 {C} - ❸⑤ Coût 03✔ - ⟳.jpg,C,Émeraude,❸,Labyrinthe périlleux,Dédale aquatique,Lieu,Lieu,1,3.0,,8,1
+06_FR_114.jpg,6.0,114,06•FR•114 {C} - ❹① Coût 05✖ - ⟳.jpg,C,Rubis,❹,Abu,Timonier intrépide,Personnage,Storyborn • Allié,0,5.0,4,4,2
+06_FR_115.jpg,6.0,115,06•FR•115 {C} - ❹① Coût 03✔ - ⟳.jpg,C,Rubis,❹,Mickey Mouse,Marin courageux,Personnage,Dreamborn • Héros,1,3.0,2,4,1
+06_FR_127.jpg,6.0,127,06•FR•127 {SR} - ❹① Coût 05✖ - ⟳.jpg,SR,Rubis,❹,Scar,Chasseur sans cœur,Personnage,Storyborn • Méchant,0,5.0,4,2,3
+06_FR_138.jpg,6.0,138,06•FR•138 {C} - ❺① Coût 02✔ - ⟳.jpg,C,Saphir,❺,Tante Cassie,Plus grande fan,Personnage,Storyborn • Mentor,1,2.0,1,3,1
+06_FR_143.jpg,6.0,143,06•FR•143 {U} - ❺① Coût 04✔ - ⟳.jpg,U,Saphir,❺,Yokai,Inventeur énigmatique,Personnage,Storyborn • Méchant • Inventeur,1,4.0,3,3,2
+06_FR_144.jpg,6.0,144,06•FR•144 {U} - ❺① Coût 03✔ - ⟳.jpg,U,Saphir,❺,Pikly,Expert scientifique,Personnage,Storyborn • Allié • Alien,1,3.0,3,4,1
+06_FR_159.jpg,6.0,159,06•FR•159 {R} - ❺① Coût 02✖ - ⟳.jpg,R,Saphir,❺,Flaversham,Inventeur intrigué,Personnage,Storyborn • Allié • Inventeur,0,2.0,0,2,3
+06_FR_160.jpg,6.0,160,06•FR•160 {R} - ❺① Coût 09✔ - ⟳.jpg,R,Saphir,❺,Yokai,Super-méchant scientifique,Personnage,Floodborn • Méchant • Inventeur,1,9.0,6,10,2
+06_FR_164.jpg,6.0,164,06•FR•164 {C} - ❺② Coût 01✖ - ⟳.jpg,C,Saphir,❺,Coup de main,,Action,Action,0,1.0,,,
+06_FR_176.jpg,6.0,176,06•FR•176 {SR} - ❻① Coût 06✖ - ⟳.jpg,SR,Acier,❻,Monsieur Mouche,Capitaine du Jolly Roger,Personnage,Floodborn • Méchant • Pirate • Capitaine,0,6.0,3,6,2
+06_FR_177.jpg,6.0,177,06•FR•177 {C} - ❻① Coût 05✔ - ⟳.jpg,C,Acier,❻,Mullins,Membre de l'équipage chevronné,Personnage,Storyborn • Allié • Pirate,1,5.0,6,4,1
+06_FR_181.jpg,6.0,181,06•FR•181 {C} - ❻① Coût 03✔ - ⟳.jpg,C,Acier,❻,John Silver,Maître-coq du vaisseau,Personnage,Storyborn • Méchant • Allié • Pirate • Capitaine,1,3.0,3,3,1
+06_FR_191.jpg,6.0,191,06•FR•191 {R} - ❻① Coût 02✖ - ⟳.jpg,R,Acier,❻,Calhoun,Sergent,Personnage,Storyborn • Héros,0,2.0,3,2,1
+06_FR_197.jpg,6.0,197,06•FR•197 {C} - ❻② Coût 02✖ - ⟳.jpg,C,Acier,❻,Tir jumelé,,Action,Action,0,2.0,,,
+06_FR_204.jpg,6.0,204,06•FR•204 {C} - ❻⑤ Coût 03✔ - ⟳.jpg,C,Acier,❻,Chambre du conseil galactique,Salle d'audience,Lieu,Lieu,1,3.0,,7,1
+07_FR_14.jpg,7.0,14,07•FR•014 {L} - ❶① Coût 03✔ - ⟳.jpg,L,Ambre,❶,Aurore,La belle s'éveillant,Personnage,Storyborn • Héros • Princesse,1,3.0,1,4,2
+07_FR_15.jpg,7.0,15,07•FR•015 {R} - ❶① Coût 04✔ - ⟳.jpg,R,Ambre,❶,Cendrillon,La bonne personne,Personnage,Storyborn • Héros • Princesse,1,4.0,2,4,2
+07_FR_17.jpg,7.0,17,07•FR•017 {C} - ❶① Coût 02✔ - ⟳.jpg,C,Ambre,❶,Adèle Machandelle,Pilote passionnée,Personnage,Storyborn • Allié • Pilote,1,2.0,2,2,1
+07_FR_31.jpg,7.0,31,07•FR•031 {L} - ❶① Coût 02✖ - ⟳.jpg,L,Ambre,❶,Minnie,Conteuse,Personnage,Storyborn • Héros,0,2.0,1,2,0
+07_FR_75.jpg,7.0,75,07•FR•075 {C} - ❷① Coût 04✔ - ⟳.jpg,C,Améthyste,❷,Panique,Diablotin tendu,Personnage,Storyborn • Allié,1,4.0,2,3,2
+07_FR_82.jpg,7.0,82,07•FR•082 {SR} - ❷② Coût 02✖ - ⟳.jpg,SR,Améthyste,❷,Montre-m'en davantage !,,Action,Action,0,2.0,,,
+07_FR_91.jpg,7.0,91,07•FR•091 {C} - ❸① Coût 05✔ - ⟳.jpg,C,Émeraude,❸,Chat du Cheshire,Félin déroutant,Personnage,Storyborn,1,5.0,4,3,2
+07_FR_92.jpg,7.0,92,07•FR•092 {R} - ❸① Coût 04✖ - ⟳.jpg,R,Émeraude,❸,Shere Khan,Tigre tristement célèbre,Personnage,Storyborn • Méchant,0,4.0,4,4,4
+07_FR_102.jpg,7.0,102,07•FR•102 {C} - ❸① Coût 03✔ - ⟳.jpg,C,Émeraude,❸,Pacha,Compagnon de randonnée,Personnage,Storyborn • Héros,1,3.0,3,2,1
+07_FR_120.jpg,7.0,120,07•FR•120 {U} - ❸④ Coût 03✖ - ⟳.jpg,U,Émeraude,❸,Spirale d'Émeraude,,Objet,Objet,0,3.0,,,
+07_FR_144.jpg,7.0,144,07•FR•144 {U} - ❹① Coût 02✔ - ⟳.jpg,U,Rubis,❹,Seigneur Kay,Chevalier indiscipliné,Personnage,Storyborn • Chevalier,1,2.0,2,2,2
+07_FR_147.jpg,7.0,147,07•FR•147 {R} - ❹② Coût 03✖ - ⟳.jpg,R,Rubis,❹,Nous avons de la visite !,,Action,Action,0,3.0,,,
+07_FR_159.jpg,7.0,159,07•FR•159 {C} - ❺① Coût 03✔ - ⟳.jpg,C,Saphir,❺,Belle,Apprentie inventrice,Personnage,Storyborn • Héros • Princesse • Inventeur,1,3.0,3,3,1
+07_FR_160.jpg,7.0,160,07•FR•160 {R} - ❺① Coût 03✖ - ⟳.jpg,R,Saphir,❺,Lucky,Miraculé de la portée,Personnage,Storyborn • Chiot,0,3.0,1,3,2
+07_FR_180.jpg,7.0,180,07•FR•180 {C} - ❺④ Coût 03✔ - ⟳.jpg,C,Saphir,❺,Chargeur de Baymax,,Objet,Objet,1,3.0,,,
+07_FR_183.jpg,7.0,183,07•FR•183 {U} - ❻① Coût 02✖ - ⟳.jpg,U,Acier,❻,Helga Sinclair,Dure à cuire,Personnage,Storyborn • Méchant,0,2.0,0,4,1
+07_FR_185.jpg,7.0,185,07•FR•185 {C} - ❻① Coût 01✔ - ⟳.jpg,C,Acier,❻,Heihei,Coq qui radote,Personnage,Dreamborn • Allié,1,1.0,2,2,1
+07_FR_195.jpg,7.0,195,07•FR•195 {C} - ❻① Coût 06✔ - ⟳.jpg,C,Acier,❻,Miss Bianca,Agente indéfectible,Personnage,Dreamborn • Héros,1,6.0,5,5,1
+07_FR_202.jpg,7.0,202,07•FR•202 {U} - ❻② Coût 02✔ - ⟳.jpg,U,Acier,❻,Les problèmes vont par paire,,Action,Action,1,2.0,,,
+07_FR_203.jpg,7.0,203,07•FR•203 {U} - ❻④ Coût 02✖ - ⟳.jpg,U,Acier,❻,Spirale d'Acier,,Objet,Objet,0,2.0,,,
+08_FR_42.jpg,8.0,42,08•FR•042 {R} - ❶③ Coût 09✖ - ⟳.jpg,R,Ambre,❶,Sans aucun souci,,Action,Action • Chanson à l'unisson,0,9.0,,,
+08_FR_52.jpg,8.0,52,08•FR•052 {C} - ❷① Coût 01✔ - ⟳.jpg,C,Améthyste,❷,Garde Royal,Soldat pieuvre,Personnage,Storyborn,1,1.0,1,2,1
+08_FR_57.jpg,8.0,57,08•FR•057 {C} - ❷① Coût 02✔ - ⟳.jpg,C,Améthyste,❷,Bambi,Prince de la forêt,Personnage,Storyborn • Héros • Prince,1,2.0,3,2,1
+08_FR_75.jpg,8.0,75,08•FR•075 {C} - ❷① Coût 05✔ - ⟳.jpg,C,Améthyste,❷,Camilo Madrigal,Sur le devant de la scène,Personnage,Storyborn • Allié • Madrigal,1,5.0,4,4,2
+08_FR_86.jpg,8.0,86,08•FR•086 {R} - ❸① Coût 07✔ - ⟳.jpg,R,Émeraude,❸,Basil,Détective infiltré,Personnage,Dreamborn • Héros • Détective,1,7.0,5,4,2
+08_FR_92.jpg,8.0,92,08•FR•092 {C} - ❸① Coût 03✔ - ⟳.jpg,C,Émeraude,❸,Fred,Adore la science,Personnage,Storyborn • Héros,1,3.0,2,3,2
+08_FR_121.jpg,8.0,121,08•FR•121 {C} - ❹① Coût 03✔ - ⟳.jpg,C,Rubis,❹,Arnold Trufforange,Concurrent acharné,Personnage,Storyborn • Allié • Pilote,1,3.0,1,2,1
+08_FR_128.jpg,8.0,128,08•FR•128 {C} - ❹① Coût 02✔ - ⟳.jpg,C,Rubis,❹,Lumière,Candelabre agile,Personnage,Storyborn • Allié,1,2.0,1,1,2
+08_FR_134.jpg,8.0,134,08•FR•134 {U} - ❹① Coût 02✔ - ⟳.jpg,U,Rubis,❹,Panpan,Lapereau,Personnage,Storyborn • Allié,1,2.0,0,3,1
+08_FR_143.jpg,8.0,143,08•FR•143 {C} - ❹① Coût 03✔ - ⟳.jpg,C,Rubis,❹,Mr. Snoops,Partenaire trahi,Personnage,Storyborn • Allié,1,3.0,3,3,1
+08_FR_152.jpg,8.0,152,08•FR•152 {R} - ❹④ Coût 01✔ - ⟳.jpg,R,Rubis,❹,L'épée de Shan-Yu,,Objet,Objet,1,1.0,,,
+08_FR_154.jpg,8.0,154,08•FR•154 {U} - ❺① Coût 03✔ - ⟳.jpg,U,Saphir,❺,Seigneur Pélinore,Chevalier chevronné,Personnage,Storyborn • Chevalier,1,3.0,1,4,1
+08_FR_156.jpg,8.0,156,08•FR•156 {C} - ❺① Coût 01✔ - ⟳.jpg,C,Saphir,❺,Olaf,Résumant l'histoire,Personnage,Storyborn • Allié,1,1.0,2,1,1
+08_FR_161.jpg,8.0,161,08•FR•161 {C} - ❺① Coût 03✔ - ⟳.jpg,C,Saphir,❺,Madame Samovar,Gouvernante en chef,Personnage,Storyborn • Allié,1,3.0,2,4,1
+08_FR_178.jpg,8.0,178,08•FR•178 {C} - ❺④ Coût 03✔ - ⟳.jpg,C,Saphir,❺,Poste de télévision,,Objet,Objet,1,3.0,,,
+08_FR_180.jpg,8.0,180,08•FR•180 {R} - ❺④ Coût 02✔ - ⟳.jpg,R,Saphir,❺,Cristal Atlante,,Objet,Objet,1,2.0,,,
+08_FR_181.jpg,8.0,181,08•FR•181 {U} - ❻① Coût 07✔ - ⟳.jpg,U,Acier,❻,Atitaya,Générale de Croc du Dragon,Personnage,Storyborn • Allié,1,7.0,7,7,3
+08_FR_182.jpg,8.0,182,08•FR•182 {C} - ❻① Coût 03✔ - ⟳.jpg,C,Acier,❻,Bobby le pigeon,Pigeon violet,Personnage,Storyborn,1,3.0,4,2,1
+08_FR_184.jpg,8.0,184,08•FR•184 {C} - ❻① Coût 02✔ - ⟳.jpg,C,Acier,❻,Prince Achmed,Soupirant rival,Personnage,Storyborn • Prince,1,2.0,2,2,1
+08_FR_191.jpg,8.0,191,08•FR•191 {C} - ❻① Coût 05✔ - ⟳.jpg,C,Acier,❻,Arianna,Reine de Corona,Personnage,Storyborn • Reine,1,5.0,5,5,2
+08_FR_193.jpg,8.0,193,08•FR•193 {C} - ❻① Coût 04✔ - ⟳.jpg,C,Acier,❻,Khan,Cheval de guerre,Personnage,Storyborn • Allié,1,4.0,2,7,1
+08_FR_194.jpg,8.0,194,08•FR•194 {R} - ❻① Coût 03✖ - ⟳.jpg,R,Acier,❻,Vinnie le pigeon,Pigeon vert,Personnage,Storyborn,0,3.0,1,4,1
+08_FR_195.jpg,8.0,195,08•FR•195 {R} - ❻① Coût 04✔ - ⟳.jpg,R,Acier,❻,Iago,Hors de portée,Personnage,Storyborn • Allié,1,4.0,3,3,2
+08_FR_199.jpg,8.0,199,08•FR•199 {L} - ❻① Coût 10✖ - ⟳.jpg,L,Acier,❻,Mickey Mouse,Souris géante,Personnage,Dreamborn • Héros,0,10.0,10,10,5
+08_FR_202.jpg,8.0,202,08•FR•202 {U} - ❻③ Coût 07✖ - ⟳.jpg,U,Acier,❻,Beyond the horizon,,Action,Action • Chanson à l'unisson,0,7.0,,,
+09_FR_3.jpg,9.0,3,09•FR•003 {SR} - ❶① Coût 06✔ - ♺.jpg,SR,Ambre,❶,Stitch,Rock star,Personnage,Floodborn • Héros • Alien,1,6.0,3,5,3
+09_FR_11.jpg,9.0,11,09•FR•011 {C} - ❶① Coût 04✔ - ♺.jpg,C,Ambre,❶,Daisy,Mousquetaire espionne,Personnage,Dreamborn • Héros • Mousquetaire,1,4.0,2,3,1
+09_FR_17.jpg,9.0,17,09•FR•017 {U} - ❶① Coût 05✔ - ♺.jpg,U,Ambre,❶,Nani,Sœur protectrice,Personnage,Storyborn • Héros,1,5.0,3,6,2
+09_FR_26.jpg,9.0,26,09•FR•026 {L} - ❶③ Coût 08✔ - ⟳.jpg,L,Ambre,❶,L'histoire de la vie,,Action,Action • Chanson à l'unisson,1,8.0,,,
+09_FR_38.jpg,9.0,38,09•FR•038 {R} - ❷① Coût 04✔ - ♺.jpg,R,Améthyste,❷,Jafar,Gardien des secrets,Personnage,Dreamborn • Méchant • Mage,1,4.0,0,5,2
+09_FR_41.jpg,9.0,41,09•FR•041 {C} - ❷① Coût 05✔ - ♺.jpg,C,Améthyste,❷,Winnie l'ourson,Magicien mellifique,Personnage,Dreamborn • Héros • Mage • Miel,1,5.0,5,5,2
+09_FR_66.jpg,9.0,66,09•FR•066 {R} - ❷④ Coût 03✔ - ♺.jpg,R,Améthyste,❷,Montre à gousset,,Objet,Objet,1,3.0,,,
+09_FR_72.jpg,9.0,72,09•FR•072 {R} - ❸① Coût 04✖ - ♺.jpg,R,Émeraude,❸,Prince Philippe,Gardien de la forêt,Personnage,Dreamborn • Héros • Prince,0,4.0,3,4,2
+09_FR_103.jpg,9.0,103,09•FR•103 {U} - ❹① Coût 02✔ - ♺.jpg,U,Rubis,❹,Le fou,Agitateur de foule,Personnage,Dreamborn • Allié,1,2.0,2,2,1
+09_FR_108.jpg,9.0,108,09•FR•108 {L} - ❹① Coût 09✔ - ♺.jpg,L,Rubis,❹,Maléfique,Dragon monstrueux,Personnage,Storyborn • Méchant • Dragon,1,9.0,7,5,2
+09_FR_119.jpg,9.0,119,09•FR•119 {U} - ❹① Coût 03✖ - ♺.jpg,U,Rubis,❹,Sisu,Visiteuse audacieuse,Personnage,Storyborn • Héros • Dieu • Dragon,0,3.0,1,1,1
+09_FR_121.jpg,9.0,121,09•FR•121 {R} - ❹① Coût 02✔ - ♺.jpg,R,Rubis,❹,Lumière,Ardent ami,Personnage,Dreamborn • Allié,1,2.0,2,2,1
+09_FR_137.jpg,9.0,137,09•FR•137 {R} - ❺① Coût 04✔ - ♺.jpg,R,Saphir,❺,Anna,Cœur sincère,Personnage,Dreamborn • Héros • Reine • Chevalier,1,4.0,2,4,2
+09_FR_138.jpg,9.0,138,09•FR•138 {R} - ❺① Coût 02✔ - ♺.jpg,R,Saphir,❺,Riri,Neveu astucieux,Personnage,Storyborn • Allié,1,2.0,2,2,1
+09_FR_143.jpg,9.0,143,09•FR•143 {L} - ❺① Coût 03✖ - ⟳.jpg,L,Saphir,❺,Cruella d'enfer,Icône de la mode,Personnage,Storyborn • Méchant,0,3.0,2,3,1
+09_FR_162.jpg,9.0,162,09•FR•162 {R} - ❺① Coût 06✔ - ♺.jpg,R,Saphir,❺,Robin des bois,Archer sans égal,Personnage,Storyborn • Héros,1,6.0,4,4,2
+09_FR_179.jpg,9.0,179,09•FR•179 {C} - ❻① Coût 01✔ - ♺.jpg,C,Acier,❻,Tiana,Serveuse consciencieuse,Personnage,Storyborn • Héros • Princesse,1,1.0,1,3,1
+09_FR_187.jpg,9.0,187,09•FR•187 {U} - ❻① Coût 03✔ - ♺.jpg,U,Acier,❻,Lawrence,Valet jaloux,Personnage,Storyborn • Allié,1,3.0,0,4,2
+09_FR_188.jpg,9.0,188,09•FR•188 {SR} - ❻① Coût 06✔ - ♺.jpg,SR,Acier,❻,La fée Clochette,Fée géante,Personnage,Floodborn • Allié • Fée,1,6.0,4,5,2
+09_FR_192.jpg,9.0,192,09•FR•192 {R} - ❻① Coût 03✔ - ♺.jpg,R,Acier,❻,John Silver,Chasseur de trésor avide,Personnage,Dreamborn • Méchant • Alien • Pirate • Capitaine,1,3.0,3,3,1
+09_FR_193.jpg,9.0,193,09•FR•193 {U} - ❻① Coût 05✔ - ♺.jpg,U,Acier,❻,Li Shang,Capitaine Impérial,Personnage,Dreamborn • Héros • Capitaine,1,5.0,5,5,2
+09_FR_196.jpg,9.0,196,09•FR•196 {C} - ❻① Coût 03✔ - ♺.jpg,C,Acier,❻,Ariel,Sirène déterminée,Personnage,Storyborn • Héros • Princesse,1,3.0,2,4,1
+09_FR_201.jpg,9.0,201,09•FR•201 {R} - ❻③ Coût 03✔ - ♺.jpg,R,Acier,❻,Plus ardent que le feu des volcans,,Action,Action • Chanson,1,3.0,,,
+10_FR_2.jpg,10.0,2,10•FR•002 {U} - ❶① Coût 02✖ - ⟳.jpg,U,Ambre,❶,Gaston,Brute terrifiante,Personnage,Storyborn • Méchant • Lueur,0,2.0,3,3,1
+10_FR_9.jpg,10.0,9,10•FR•009 {U} - ❶① Coût 03✔ - ⟳.jpg,U,Ambre,❶,Zaza,À la recherche de connaissance,Personnage,Storyborn • Allié,1,3.0,1,6,1
+10_FR_11.jpg,10.0,11,10•FR•011 {C} - ❶① Coût 04✔ - ⟳.jpg,C,Ambre,❶,Mamie Baba,Ancienne agente du C.H.U.T.,Personnage,Storyborn • Allié,1,4.0,2,6,1
+10_FR_12.jpg,10.0,12,10•FR•012 {U} - ❶① Coût 03✔ - ⟳.jpg,U,Ambre,❶,Bagheera,Explorateur prudent,Personnage,Storyborn • Allié,1,3.0,4,4,1
+10_FR_24.jpg,10.0,24,10•FR•024 {SR} - ❶① Coût 08✔ - ⟳.jpg,SR,Ambre,❶,Dingo,Détective pas très privé,Personnage,Floodborn • Héros • Détective,1,8.0,5,7,3
+10_FR_36.jpg,10.0,36,10•FR•036 {SR} - ❷① Coût 04✔ - ⟳.jpg,SR,Améthyste,❷,Le Seigneur des Ténèbres,Monarque maléfique,Personnage,Floodborn • Méchant • Roi • Mage,1,4.0,3,4,2
+10_FR_43.jpg,10.0,43,10•FR•043 {U} - ❷① Coût 02✔ - ⟳.jpg,U,Améthyste,❷,Iago,Piétine de rage,Personnage,Storyborn • Allié,1,2.0,0,2,1
+10_FR_57.jpg,10.0,57,10•FR•057 {U} - ❷① Coût 01✔ - ⟳.jpg,U,Améthyste,❷,Olaf,Tend la main,Personnage,Storyborn • Allié,1,1.0,2,1,1
+10_FR_70.jpg,10.0,70,10•FR•070 {C} - ❸① Coût 01✔ - ⟳.jpg,C,Émeraude,❸,L'amoureux,Poète éperdu d'amour,Personnage,Storyborn • Allié,1,1.0,1,3,1
+10_FR_72.jpg,10.0,72,10•FR•072 {C} - ❸① Coût 03✔ - ⟳.jpg,C,Émeraude,❸,Kaa,Serpent suspicieux,Personnage,Storyborn • Méchant,1,3.0,3,2,2
+10_FR_75.jpg,10.0,75,10•FR•075 {C} - ❸① Coût 06✔ - ⟳.jpg,C,Émeraude,❸,Vladimir,Fan de petites licornes,Personnage,Storyborn • Allié,1,6.0,5,6,2
+10_FR_77.jpg,10.0,77,10•FR•077 {C} - ❸① Coût 07✔ - ⟳.jpg,C,Émeraude,❸,Jetsam,Anguille opportuniste,Personnage,Storyborn • Allié,1,7.0,6,6,2
+10_FR_79.jpg,10.0,79,10•FR•079 {U} - ❸① Coût 07✔ - ⟳.jpg,U,Émeraude,❸,Kaa,Serpent dissimulé,Personnage,Storyborn • Méchant,1,7.0,6,7,3
+10_FR_92.jpg,10.0,92,10•FR•092 {SR} - ❸① Coût 06✖ - ⟳.jpg,SR,Émeraude,❸,Petit Jean,Hors-la-loi éphémère,Personnage,Storyborn • Allié • Lueur,0,6.0,4,5,3
+10_FR_103.jpg,10.0,103,10•FR•103 {R} - ❹① Coût 02✖ - ⟳.jpg,R,Rubis,❹,Diablo,Corbeau attentif,Personnage,Storyborn • Allié,0,2.0,3,3,2
+10_FR_116.jpg,10.0,116,10•FR•116 {SR} - ❹① Coût 06✔ - ⟳.jpg,SR,Rubis,❹,David Xanatos,Leader charismatique,Personnage,Storyborn • Méchant,1,6.0,5,5,2
+10_FR_125.jpg,10.0,125,10•FR•125 {L} - ❹① Coût 05✖ - ⟳.jpg,L,Rubis,❹,Le cavalier sans tête,Terreur de Sleepy Hollow,Personnage,Storyborn • Méchant,0,5.0,4,2,2
+10_FR_127.jpg,10.0,127,10•FR•127 {C} - ❹① Coût 04✔ - ⟳.jpg,C,Rubis,❹,Brom Bones,Solide gaillard,Personnage,Storyborn,1,4.0,5,4,1
+10_FR_138.jpg,10.0,138,10•FR•138 {C} - ❺① Coût 02✔ - ⟳.jpg,C,Saphir,❺,Tirelire,Cochon oracle,Personnage,Storyborn • Allié,1,2.0,1,4,1
+10_FR_139.jpg,10.0,139,10•FR•139 {C} - ❺① Coût 04✔ - ⟳.jpg,C,Saphir,❺,Anna,Planifie son hiver,Personnage,Storyborn • Héros • Reine,1,4.0,4,3,2
+10_FR_144.jpg,10.0,144,10•FR•144 {C} - ❺① Coût 03✔ - ⟳.jpg,C,Saphir,❺,Fergus Mac Picsou,Père de Balthazar,Personnage,Storyborn • Mentor,1,3.0,3,2,2
+10_FR_157.jpg,10.0,157,10•FR•157 {U} - ❺① Coût 02✔ - ⟳.jpg,U,Saphir,❺,Pluto,Fin dénicheur d'indices,Personnage,Dreamborn • Allié,1,2.0,2,2,1
+10_FR_163.jpg,10.0,163,10•FR•163 {U} - ❺③ Coût 04✔ - ⟳.jpg,U,Saphir,❺,"En suivant Fifi, Riri et Loulou",,Action,Action • Chanson,1,4.0, , , 
+10_FR_174.jpg,10.0,174,10•FR•174 {SR} - ❻① Coût 08✔ - ⟳.jpg,SR,Acier,❻,Le cavalier sans tête,Cavalier maudit,Personnage,Floodborn • Méchant,1,8.0,5,7,2
+10_FR_182.jpg,10.0,182,10•FR•182 {U} - ❻① Coût 02✔ - ⟳.jpg,U,Acier,❻,Le héron noir,Mauvaise graine,Personnage,Storyborn • Méchant,1,2.0,3,3,1
+10_FR_189.jpg,10.0,189,10•FR•189 {L} - ❻① Coût 07✔ - ⟳.jpg,L,Acier,❻,Prince charmant,Protecteur du royaume,Personnage,Dreamborn • Héros • Prince,1,7.0,3,10,2
+10_FR_194.jpg,10.0,194,10•FR•194 {C} - ❻① Coût 04✔ - ⟳.jpg,C,Acier,❻,Le cavalier sans tête,Esprit implacable,Personnage,Storyborn • Méchant,1,4.0,4,4,1
+10_FR_195.jpg,10.0,195,10•FR•195 {C} - ❻③ Coût 01✔ - ⟳.jpg,C,Acier,❻,Quelle poursuite infernale,,Action,Action • Chanson,1,1.0, , , 
+10_FR_199.jpg,10.0,199,10•FR•199 {U} - ❻④ Coût 01✔ - ⟳.jpg,U,Acier,❻,La reine robot,,Objet,Objet,1,1.0, , , 
+10_FR_200.jpg,10.0,200,10•FR•200 {R} - ❻④ Coût 02✔ - ⟳.jpg,R,Acier,❻,L'épée d'Hercule,,Objet,Objet,1,2.0, , , 
+10_FR_201.jpg,10.0,201,10•FR•201 {R} - ❻④ Coût 03✖ - ⟳.jpg,R,Acier,❻,Mécanisme très ingénieux,,Objet,Objet,0,3.0, , , 
+11_FR_26.jpg,11.0,26,11•FR•026 {R} - ❶① Coût 06✖ - 🆕.jpg,R,Ambre,❶,Veuve Tartine,Âme bienveillante,Personnage,Storyborn • Allié,0,6.0,2,8,2
+11_FR_28.jpg,11.0,28,11•FR•028 {SR} - ❶② Coût 08✖ - 🆕.jpg,SR,Ambre,❶,Tempête violente,,Action,Action,0,8.0,,,
+11_FR_38.jpg,11.0,38,11•FR•038 {C} - ❷① Coût 04✖ - 🆕.jpg,C,Améthyste,❷,Fraîcheneige von Frimas,Reine des Glaces de Bourg-les-Carnards,Personnage,Storyborn • Super • Méchant,0,4.0,4,4,1
+11_FR_39.jpg,11.0,39,11•FR•039 {U} - ❷① Coût 01✔ - 🆕.jpg,U,Améthyste,❷,Flit,Colibri réfléchissant,Personnage,Storyborn • Allié,1,1.0,0,2,1
+11_FR_40.jpg,11.0,40,11•FR•040 {C} - ❷① Coût 03✔ - 🆕.jpg,C,Améthyste,❷,Morgana,Ensorceleuse égocentrique,Personnage,Storyborn • Super • Méchant • Mage,1,3.0,5,3,
+11_FR_49.jpg,11.0,49,11•FR•049 {R} - ❷① Coût 03✔ - 🆕.jpg,R,Améthyste,❷,Génie,Chercheur en magie,Personnage,Storyborn • Allié • Lueur,1,3.0,3,4,1
+11_FR_50.jpg,11.0,50,11•FR•050 {L} - ❷① Coût 05✔ - 🆕.jpg,L,Améthyste,❷,Anna,Sœur rassurante,Personnage,Floodborn • Héros • Reine,1,5.0,5,5,1
+11_FR_54.jpg,11.0,54,11•FR•054 {C} - ❷① Coût 07✔ - 🆕.jpg,C,Améthyste,❷,Vaches de l'espace,Alliées inattendues,Personnage,Storyborn • Allié • Alien,1,7.0,6,8,3
+11_FR_56.jpg,11.0,56,11•FR•056 {C} - ❷① Coût 06✔ - 🆕.jpg,C,Améthyste,❷,Lympy,Éfélant joueur,Personnage,Storyborn • Allié,1,6.0,6,5,
+11_FR_61.jpg,11.0,61,11•FR•061 {R} - ❷③ Coût 03✖ - 🆕.jpg,R,Améthyste,❷,Je voudrais un bonhomme de neige,,Action,Action • Chanson,0,3.0,,,
+11_FR_63.jpg,11.0,63,11•FR•063 {C} - ❷② Coût 01✔ - 🆕.jpg,C,Améthyste,❷,Manier l'épée,,Action,Action,1,1.0,,,
+11_FR_68.jpg,11.0,68,11•FR•068 {U} - ❷⑤ Coût 03✔ - 🆕.jpg,U,Améthyste,❷,La Plante gelée,Monstrueux végétal,Lieu,Lieu,1,3.0,,4,2
+11_FR_74.jpg,11.0,74,11•FR•074 {U} - ❸① Coût 07✔ - 🆕.jpg,U,Émeraude,❸,Chien-Po,Guerrier des neiges,Personnage,Storyborn • Alien,1,7.0,7,7,3
+11_FR_79.jpg,11.0,79,11•FR•079 {R} - ❸① Coût 08✔ - 🆕.jpg,R,Émeraude,❸,Sigmund,Dinosaure maladroit,Personnage,Storyborn • Allié • Dinosaure,1,8.0,7,7,2
+11_FR_81.jpg,11.0,81,11•FR•081 {C} - ❸① Coût 03✔ - 🆕.jpg,C,Émeraude,❸,Aladdin,Au seuil de l'aventure,Personnage,Storyborn • Héros,1,3.0,2,3,3
+11_FR_82.jpg,11.0,82,11•FR•082 {U} - ❸① Coût 05✖ - 🆕.jpg,U,Émeraude,❸,Mushu,Dragon malicieux,Personnage,Storyborn • Allié • Dragon,0,5.0,3,2,3
+11_FR_85.jpg,11.0,85,11•FR•085 {C} - ❸① Coût 01✔ - 🆕.jpg,C,Émeraude,❸,Rouky,Chiot de chasse,Personnage,Storyborn • Héros • Chiot,1,1.0,2,1,1
+11_FR_98.jpg,11.0,98,11•FR•098 {U} - ❸④ Coût 03✖ - 🆕.jpg,U,Émeraude,❸,Fort de neige,,Objet,Objet,0,3.0,,,
+11_FR_101.jpg,11.0,101,11•FR•101 {R} - ❸④ Coût 04✔ - 🆕.jpg,R,Émeraude,❸,Bélier,,Objet,Objet,1,4.0,,,
+11_FR_122.jpg,11.0,122,11•FR•122 {R} - ❹① Coût 09✔ - 🆕.jpg,R,Rubis,❹,Olaf,Bonhomme d'action,Personnage,Storyborn • Allié,1,9.0,4,4,2
+11_FR_124.jpg,11.0,124,11•FR•124 {SR} - ❹① Coût 04✖ - 🆕.jpg,SR,Rubis,❹,Balthazar Picsou,Ebenezer Scrooge,Personnage,Storyborn • Méchant,0,4.0,4,3,1
+11_FR_131.jpg,11.0,131,11•FR•131 {U} - ❹③ Coût 05✖ - 🆕.jpg,U,Rubis,❹,À vos flèches,,Action,Action • Chanson,0,5.0,,,
+11_FR_145.jpg,11.0,145,11•FR•145 {U} - ❺① Coût 02✔ - 🆕.jpg,U,Saphir,❺,Myster Mask,Albert Colvert,Personnage,Storyborn • Super • Héros • Détective,1,2.0,4,1,1
+11_FR_156.jpg,11.0,156,11•FR•156 {SR} - ❺① Coût 07✔ - 🆕.jpg,SR,Saphir,❺,Tamatoa,Chercheur de bling-bling,Personnage,Storyborn • Méchant • Lueur,1,7.0,6,6,1
+11_FR_158.jpg,11.0,158,11•FR•158 {SR} - ❺① Coût 04✔ - 🆕.jpg,SR,Saphir,❺,Belle,Stratège du champ de neige,Personnage,Storyborn • Héros • Princesse,1,4.0,2,3,2
+11_FR_163.jpg,11.0,163,11•FR•163 {R} - ❺③ Coût 05✔ - ♺.jpg,R,Saphir,❺,"Libérée, délivrée",,Action,Action • Chanson,1,5.0,,,
+11_FR_164.jpg,11.0,164,11•FR•164 {C} - ❺② Coût 02✔ - ♺.jpg,C,Saphir,❺,Distraction,,Action,Action,1,2.0,,,
+11_FR_169.jpg,11.0,169,11•FR•169 {U} - ❺④ Coût 03✔ - 🆕.jpg,U,Saphir,❺,Appareil à gaz de Myster Mask,,Objet,Objet,1,3.0,,,
+11_FR_189.jpg,11.0,189,11•FR•189 {U} - ❻① Coût 03✔ - 🆕.jpg,U,Acier,❻,Gigi,Premier prix de la neige,Personnage,Storyborn • Alien,1,3.0,2,4,1
+11_FR_193.jpg,11.0,193,11•FR•193 {SR} - ❻① Coût 05✖ - 🆕.jpg,SR,Acier,❻,John Smith,Protecteur impavide,Personnage,Dreamborn • Héros,0,5.0,3,6,2
+11_FR_197.jpg,11.0,197,11•FR•197 {C} - ❻② Coût 02✔ - 🆕.jpg,C,Acier,❻,La terreur qui corrige les erreurs,,Action,Action,1,2.0,,,
+11_FR_198.jpg,11.0,198,11•FR•198 {R} - ❻③ Coût 04✔ - 🆕.jpg,R,Acier,❻,Cette chanson craint un Mask,,Action,Action • Chanson,1,4.0,,,
+11_FR_204.jpg,11.0,204,11•FR•204 {U} - ❻⑤ Coût 04✔ - 🆕.jpg,U,Acier,❻,Tour de Myster Mask,Quartier général glacé,Lieu,Lieu,1,4.0,,8,1
